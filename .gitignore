@@ -1,0 +1,16 @@
+# OS files
+.DS_Store
+Thumbs.db
+
+# Editor / IDE
+.vscode/
+.idea/
+
+# MySQL Workbench backups and local files
+*.mwb.bak
+*.mwb~
+*.log
+
+# Local environment / credentials
+.env
+*.local
